@@ -2,6 +2,7 @@
 This is a simple course offering system. It is made using php, mysql etc. This system is able to update the information of student/teacher/subject, can search the information of student/teacher/subject etc.
 
 #You will need
+
     1. XAMPP Server (You can install is from here: https://www.apachefriends.org/download.html)
 
 #Steps to Run this Project
