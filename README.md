@@ -3,7 +3,7 @@ This is a simple course offering system. It is made using php, mysql etc. This s
 
 #You will need
 
-   1. XAMPP Server (You can install is from here: https://www.apachefriends.org/download.html)
+   1. XAMPP Server (You can download is from here: https://www.apachefriends.org/download.html)
 
 #Steps to Run this Project
 
